@@ -77,6 +77,6 @@ sequelize
     console.log(error);
   });
 
-app.listen(3000, () => {
-  console.log('server started at port 3000');
+app.listen(5005, () => {
+  console.log('server started at port 5005');
 });
